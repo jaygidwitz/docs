@@ -16,24 +16,31 @@
       basePath: '/docs/',
       repo: 'docs/docs',
     
-    loadSidebar: true,
-    coverpage: true,
+      loadSidebar: true,
+      coverpage: true,
 
-    loadSidebar: '_sidebar.md',
-    search: {
-          noData: {
-            '/': 'No results!'
-          },
-          paths: 'auto',
-          placeholder: {
-            '/': 'Search'
+      loadSidebar: '_sidebar.md',
+      search: {
+            noData: {
+              '/': 'No results!'
+            },
+            paths: 'auto',
+            placeholder: {
+              '/': 'Search'
+            },
+
+
           },
 
-        },
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/jaygidwitz/docs/'
+        ),
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.js"></script>
