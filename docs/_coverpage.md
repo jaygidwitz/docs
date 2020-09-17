@@ -4,11 +4,12 @@
 
 # The Portal Glossary <small>Alpha</small>
 
-> A magical documentation site generator.
+> Eric often uses terms or turns-of-phrase that some people may not immediately understand. This page is a reference source for those only. This should not be confused with more general topic areas that may at first cause confusion such as the DISC, EGOs, Load-Bearing Fictions, etc.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- See also:
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+  - A Modern Contradictionary: New Words for our New World – a Twitter Moment by Eric with a vocabulary adapted to our changing world.
+  - Eric Weinstein Quotes
+
+[GitHub](https://github.com/jaygidwitz/docs/)
+[Get Started](#the-portal-glossary)
