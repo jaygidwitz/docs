@@ -15,17 +15,21 @@
       name: 'docs',
       basePath: '/docs/',
       repo: 'docs/docs'
- // load from _sidebar.md
-  loadSidebar: true,
-  coverpage: true,
-      search: {
-        noData: {
-          '/de-de/': 'Keine Ergebnisse!',
-          '/zh-cn/': '没有结果!',
-          '/': 'No results!'
+ 
+    loadSidebar: true,
+    coverpage: true,
+
+    loadSidebar: '_sidebar.md',
+    search: {
+          noData: {
+            '/': 'No results!'
+          },
+          paths: 'auto',
+          placeholder: {
+            '/': 'Search'
+          },
+
         },
-  // load from _sidebar.md
-  loadSidebar: '_sidebar.md',
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
