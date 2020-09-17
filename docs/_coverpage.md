@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](https://theportal.tv/wp-content/uploads/2020/08/the-portal-logo.png)
 
 # docsify <small>3.5</small>
 
