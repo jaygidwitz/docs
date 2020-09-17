@@ -5,24 +5,94 @@
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
 
-- Customization
-
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
-
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- Contents
+  - A/B Testing
+  - Adaptive Landscape
+  - Adaptive Valley
+  - Adjective, Occupation, Name
+  - Agency
+  - Agentic Leadership
+  - Anthropic Capitalism
+  - Anti-Expert
+  - Anti-Fragility
+  - Anti-Interesting
+  - Artificial Outelligence
+  - Audio Samizdat
+  - The Big  Personality Traits
+  - The Big Nap
+  - Church and Pike Commissions
+  - Consensus
+  - The Cosmic Spelling Bee
+  - Critical Feeling
+  - Deaths of Accountability
+  - De-Potemkin
+  - Dining a la Carte Philosophically/Politically/Ideologically
+  - Don't screw yourself out of magic
+  - Don't wait for the bread to rise
+  - The Educational Complex
+  - Efficient Frontier
+  - Electronic Tribalism & Electronic Feudalism
+  - Environment of Evolutionary Adaptation
+  - Environmental Insult
+  - Escher's Hands Drawing Hands
+  - Evergreening
+  - Fear, Uncertainty, and Doubt (FUD)
+  - Forced Citation
+  - Fragility of Masculinity
+  - Game B
+  - Gating Function
+  - Gene Drive
+  - Genius vs Excellence
+  - Gini Coefficient
+  - High Agency
+  - Iago Media
+  - Irrationality
+  - It's a beautiful thing
+  - Injutice Budget
+  - Kayfabe
+  - Knarc
+  - Litella
+  - The Looting Party
+  - Long Term vs Short Term Optimization
+  - Long/short positions (nuanced positions)
+  - Maladaptive strategies
+  - Meaning
+  - Message Violence
+  - Middle Finger
+  - Minus Epsilon
+  - The N^ Revolution
+  - New Gimmick Economy
+  - No More Heroes
+  - Operation COINTELPRO
+  - Oral Torah
+  - Overton Window
+  - Perfectly Legal
+  - Physics Dollars
+  - Potemkin Village
+  - Preference Falsification
+  - Rent-seeking Elites
+  - Reputational Violence
+  - Resource Capture
+  - Riding on a technical substrate
+  - Rough Space
+  - Section A of the Reserve Index
+  - Selective Pressures
+  - Semi-reliable Communal Sense-making
+  - Skadoosh
+  - Sharp Minds vs. Sharp Elbows
+  - Speaking Fee
+  - Split Level Argument
+  - Steady Hands
+  - Steel-manning
+  - Teaching Disabilities
+  - Terms of Service
+  - The Twin Nuclei Problem
+  - The Observerse
+  - There is no secret ingredient
+  - Thinkquisition
+  - TIM - Technology Intelligence Media
+  - Umwelt
+  - Vampire syndrome/Vampire effect
+  - Wu-Yang Dictionary
+  
+- Elsewhere
