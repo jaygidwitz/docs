@@ -1,98 +1,104 @@
 - Getting started
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [ Quick start ](quickstart.md)
+  - [ Writing more pages ](more-pages.md)
+  - [ Custom navbar ](custom-navbar.md)
+  - [ Cover page ](cover.md)
 
+- Customization
+
+  - [ Configuration ](configuration.md)
+  - [ Themes ](themes.md)
+  - [List of Plugins ](plugins.md)
+  - [ Write a Plugin ](write-a-plugin.md)
+  - [Markdown configuration ](markdown.md)
+  - [ Language highlighting ](language-highlight.md)
 - Contents
-  - A/B Testing
-  - Adaptive Landscape
-  - Adaptive Valley
-  - Adjective, Occupation, Name
-  - Agency
-  - Agentic Leadership
-  - Anthropic Capitalism
-  - Anti-Expert
-  - Anti-Fragility
-  - Anti-Interesting
-  - Artificial Outelligence
-  - Audio Samizdat
-  - The Big  Personality Traits
-  - The Big Nap
-  - Church and Pike Commissions
-  - Consensus
-  - The Cosmic Spelling Bee
-  - Critical Feeling
-  - Deaths of Accountability
-  - De-Potemkin
-  - Dining a la Carte Philosophically/Politically/Ideologically
-  - Don't screw yourself out of magic
-  - Don't wait for the bread to rise
-  - The Educational Complex
-  - Efficient Frontier
-  - Electronic Tribalism & Electronic Feudalism
-  - Environment of Evolutionary Adaptation
-  - Environmental Insult
-  - Escher's Hands Drawing Hands
-  - Evergreening
-  - Fear, Uncertainty, and Doubt (FUD)
-  - Forced Citation
-  - Fragility of Masculinity
-  - Game B
-  - Gating Function
-  - Gene Drive
-  - Genius vs Excellence
-  - Gini Coefficient
-  - High Agency
-  - Iago Media
-  - Irrationality
-  - It's a beautiful thing
-  - Injutice Budget
-  - Kayfabe
-  - Knarc
-  - Litella
-  - The Looting Party
-  - Long Term vs Short Term Optimization
-  - Long/short positions (nuanced positions)
-  - Maladaptive strategies
-  - Meaning
-  - Message Violence
-  - Middle Finger
-  - Minus Epsilon
-  - The N^ Revolution
-  - New Gimmick Economy
-  - No More Heroes
-  - Operation COINTELPRO
-  - Oral Torah
-  - Overton Window
-  - Perfectly Legal
-  - Physics Dollars
-  - Potemkin Village
-  - Preference Falsification
-  - Rent-seeking Elites
-  - Reputational Violence
-  - Resource Capture
-  - Riding on a technical substrate
-  - Rough Space
-  - Section A of the Reserve Index
-  - Selective Pressures
-  - Semi-reliable Communal Sense-making
-  - Skadoosh
-  - Sharp Minds vs. Sharp Elbows
-  - Speaking Fee
-  - Split Level Argument
-  - Steady Hands
-  - Steel-manning
-  - Teaching Disabilities
-  - Terms of Service
-  - The Twin Nuclei Problem
-  - The Observerse
-  - There is no secret ingredient
-  - Thinkquisition
-  - TIM - Technology Intelligence Media
-  - Umwelt
-  - Vampire syndrome/Vampire effect
-  - Wu-Yang Dictionary
-  
-- Elsewhere
+  - [A/B Testing](ab_testing.md)
+  - [Adaptive Landscape](adaptive_landscape.md)
+  - [Adaptive Valley](adaptive_valley.md)
+  - [Adjective, Occupation, Name](adjective_occupation_name.md)
+  - [Agency](agency.md)
+  - [Agentic Leadership](agentic_leadership.md)
+  - [Anthropic Capitalism](anthropic_capitalism.md)
+  - [Anti-Expert](anti-expert.md)
+  - [Anti-Fragility](anti-fragility.md)
+  - [Anti-Interesting](anti-interesting.md)
+  - [Artificial Outelligence](artificial_outelligence.md)
+  - [Audio Samizdat](audio_samizdat.md)
+  - [The Big 5 Personality Traits](the_big_5_personality_traits.md)
+  - [The Big Nap](the_big_nap.md)
+  - [Church and Pike Commissions](Church_and_pike_commissions.md)
+  - [Consensus](Consensus)
+  - [The Cosmic Spelling Bee](The_cosmic_Spelling_Bee.md)
+  - [Critical Feeling](Critical_feeling.md)
+  - [Deaths of Accountability](Deaths_of_accountability.md)
+  - [De-Potemkin](De-Potemkin.md)
+  - [Dining a la Carte Philosophically/Politically/Ideologically](Dining_a_la_Carte_Philosophically_Politically_Ideologically.md)
+  - [Don't screw yourself out of magic](Don't_screw_yourself_out_of_magic.md)
+  - [Don't wait for the bread to rise](Don't_wait_for_the_bread_to_rise.md)
+  - [The Educational Complex](The_Educational_Complex.md)
+  - [Efficient Frontier](Efficient_Frontier.md)
+  - [Electronic Tribalism & Electronic Feudalism](electronic_tribalism_and_electronic_feudalism.md)
+  - [Environment of Evolutionary Adaptation](environment_of_evolutionary_adaptation.md)
+  - [Environmental Insult](environmental_insult)
+  - [Escher's Hands Drawing Hands](Eschers_hands_drawing_hands.md)
+  - [Evergreening](Evergreening)
+  - [Fear, Uncertainty, and Doubt (FUD)](Fear_Uncertainty_and_doubt_fud.md)
+  - [Forced Citation](Forced_Citation.md)
+  - [Fragility of Masculinity](fragility_of_masculinity.md)
+  - [Game B](game_b.md)
+  - [Gating Function](Gating_function.md)
+  - [Gene Drive](gene_drive.md)
+  - [Genius vs Excellence](Genius_vs_excellence.md)
+  - [Gini Coefficient](gini_coefficient.md)
+  - [High Agency](high_agency.md)
+  - [Iago Media](iago_media.md)
+  - [Irrationality](irrationality.md)
+  - [It's a beautiful thing](its_a_beautiful_thing.md)
+  - [Injutice Budget](injutice_budget.md)
+  - [Kayfabe](kayfabe.md)
+  - [Knarc](Knarc.md)
+  - [Litella](Litella.md)
+  - [The Looting Party](The_looting_party.md)
+  - [Long Term vs Short Term Optimization](Long_Term-vs-Short-Term-Optimization.md)
+  - [Long/short positions (nuanced positions)](Long_short_positions_nuanced_positions.md)
+  - [Maladaptive strategies](Maladaptive_strategies.md)
+  - [Meaning](Meaning.md)
+  - [Message Violence](Message_violence.md)
+  - [Middle Finger](Middle_Finger.md)
+  - [Minus Epsilon](Minus_Epsilon.md)
+  - [The N^ Revolution](The_N_squared_Revolution.md)
+  - [New Gimmick Economy](new_gimmick_economy.md)
+  - [No More Heroes](no_more_heroes.md)
+  - [Operation COINTELPRO](Operation_COINTELPRO.md)
+  - [Oral Torah](Oral_torah.md)
+  - [Overton Window](Overton_window.md)
+  - [Perfectly Legal](Perfectly_legal.md)
+  - [Physics Dollars](Physics_Dollars)
+  - [Potemkin Village](Potemkin_village.md)
+  - [Preference Falsification](Preference_falsification.md)
+  - [Rent-seeking Elites](Rent-seeking_elites.md)
+  - [Reputational Violence](Reputational_violence.md)
+  - [Resource Capture](Resource_capture.md)
+  - [Riding on a technical substrate](Riding_on_a_technical_substrate.md)
+  - [Rough Space](Rough_Space.md)
+  - [Section A of the Reserve Index](Section_a_of_the_reserve_index.md)
+  - [Selective Pressures](Selective_Pressures.md)
+  - [Semi-reliable Communal Sense-making](Semi-reliable_Communal_Sense-making.md)
+  - [Skadoosh](Skadoosh.md)
+  - [Sharp Minds vs. Sharp Elbows](Sharp_Minds_vs._Sharp_Elbows.md)
+  - [Speaking Fee](Speaking_fee.md)
+  - [Split Level Argument](Split_Level_Argument.md)
+  - [Steady Hands](Steady_Hands.md)
+  - [Steel-manning](Steel-manning.md)
+  - [Teaching Disabilities](Teaching_Disabilities.md)
+  - [Terms of Service](Terms_of_Service.md)
+  - [The Twin Nuclei Problem](The_Observerse.md)
+  - [The Observerse](The_Observerse.md)
+  - [There is no secret ingredient](There_is_no_secret_ingredient.md)
+  - [Thinkquisition](Thinkquisition.md)
+  - [TIM - Technology Intelligence Media](tim_technology_intelligence_media.md)
+  - [Umwelt](umwelt.md)
+  - [Vampire syndrome/Vampire effect](vampire_syndrome_vampire_effect.md)
+  - [Wu-Yang Dictionary](wu-yang_dictionary.md)
