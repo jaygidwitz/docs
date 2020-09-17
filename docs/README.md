@@ -1,4 +1,4 @@
-# docsify-cli
+# The Portal Glossary
 
 [![Build Status master branch](https://img.shields.io/travis/docsifyjs/docsify-cli/master.svg?style=flat-square)](https://travis-ci.org/github/docsifyjs/docsify-cli)
 [![License](https://img.shields.io/github/license/docsifyjs/docsify-cli.svg?style=flat-square)](https://github.com/docsifyjs/docsify-cli/blob/master/LICENSE)
