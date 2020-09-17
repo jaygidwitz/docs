@@ -29,8 +29,8 @@ Discussed in the context of adding “differential diagnosis” to our educators
     
 # Adjective, Occupation, Name
 
-   
-{{#widget:Tweet|id=955117591378329606}}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ The &quot;Adj.-Profession-Name&quot; Formula, Disagreeables, &amp; the &quot;No-Living-Heroes&quot; thy. Consider adjectives: <br><br>Embattled<br>Controversial<br>Divisive<br>Reclusive<br>Provocative<br>Struggling<br>Right-Wing<br>Eccentric<br>Self-styled<br>Far-Left<br>Recovering<br>Disgraced<br>Self-Promoting<br>Free-thinking<br>Volatile<br>etc.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/955117591378329606?ref_src=twsrc%5Etfw">January 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    
 
 
@@ -59,8 +59,8 @@ Agentic leadership derives from the term agency. This leadership style is genera
 ''"Anti-Expert, n: 1. A person with expert training & credentials, yet who rejects consensus/institutional positions that cannot bear scrutiny."''
   
   
-  {{#widget:Tweet|id=831025834215354368}}
- 
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anti-Expert, n: 1. A person with expert training &amp; credentials, yet who rejects consensus/institutional positions that cannot bear scrutiny.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/831025834215354368?ref_src=twsrc%5Etfw">February 13, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   
     
 # Anti-Fragility
 
@@ -69,7 +69,7 @@ Agentic leadership derives from the term agency. This leadership style is genera
 # Anti-Interesting
 '''Anti-interesting, adj.''': A subject is said to be anti-interesting if it is absolutely fascinating to the point where there is a strong market for it’s investigation but it threatens an institution capable of stifling discussion inside the [[Gated Institutional Narrative|Gated Institutional Narrative (GIN)]].
 
-[https://twitter.com/EricRWeinstein/status/1220179687340572672?s=20 Source]
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Anti-interesting, adj. 1) A subject is said to be anti-interesting if it is absolutely fascinating to the point where there is a strong market for it’s investigation but it threatens an institution capable of stifling discussion inside the Gated Institutional Narrative (GIN).</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1220179687340572672?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
     
 ### References:
@@ -96,11 +96,11 @@ It’s one thing to think & talk about the risks of unintelligent agents using *
 
 ##### AI Can Now Self-Reproduce—Should Humans Be Worried?
 
-{{#widget:YouTube|id=Wu8s0tp9yzY}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wu8s0tp9yzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Lampsilis mussels mimicking minnows
 
-{{#widget:YouTube|id=0j9dxbB4Z1o}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0j9dxbB4Z1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 # Audio Samizdat
