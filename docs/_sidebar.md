@@ -14,7 +14,7 @@
   - [Anti-Fragility](a.md#anti-fragility)
   - [Anti-Interesting](a.md#anti-interesting)
   - [Artificial Outelligence](a.md#artificial-outelligence)
-  - [Audio Samizdat](a.md#audio-samizdat)
+  - [Audio Samizdat](audio-samizdat.md)
   - [The Big 5 Personality Traits](the_big_5_personality_traits.md)
   - [The Big Nap](the_big_nap.md)
   - [Church and Pike Commissions](church_and_pike_commissions.md)
