@@ -8,8 +8,8 @@
 
 - See also:
 
-  - A Modern Contradictionary: New Words for our New World – a Twitter Moment by Eric with a vocabulary adapted to our changing world.
-  - Eric Weinstein Quotes
+  - [A Modern Contradictionary: New Words for our New World](https://twitter.com/i/events/887835625402941440) – a Twitter Moment by Eric with a vocabulary adapted to our changing world.
+  - [Eric Weinstein Quotes](https://theportal.wiki/wiki/Eric_Weinstein_Quotes)
 
 [GitHub](https://github.com/jaygidwitz/docs/)
 [Get Started](#the-portal-glossary)
