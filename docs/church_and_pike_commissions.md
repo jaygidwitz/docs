@@ -11,5 +11,5 @@ Were two parallel committees run in the US House and Senate investigating illega
 
 ### Pike Committee:
 
-* [https://en.wikipedia.org/wiki/Pike]_(Committee Wikipedia on the Pike Committee)
+* [https://en.wikipedia.org/wiki/Pike_Committee] (Wikipedia on the Pike Committee)
 * [https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter98_99/art07.html] (The CIA themselves on the Pike Committee)
