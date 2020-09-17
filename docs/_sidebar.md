@@ -15,8 +15,8 @@
   - [Language highlighting ](language-highlight.md)
 
 - Contents
-  - [A/B Testing](ab_testing.md)
-  - [Adaptive Landscape](adaptive_landscape.md)
+  - [A/B Testing](a.md#ab_testing)
+  - [Adaptive Landscape](a.md#adaptive_landscape)
   - [Adaptive Valley](adaptive_valley.md)
   - [Adjective, Occupation, Name](adjective_occupation_name.md)
   - [Agency](agency.md)
