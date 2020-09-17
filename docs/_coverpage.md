@@ -2,7 +2,7 @@
 
 ![logo](https://theportal.tv/wp-content/uploads/2020/08/the-portal-logo.png)
 
-# docsify <small>3.5</small>
+# The Portal Glossary <small>Alpha</small>
 
 > A magical documentation site generator.
 
